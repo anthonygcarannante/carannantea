@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Anthony G. Carannante.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 e: anthonygcarannante@gmail.com
+- Hi, I’m Anthony G. Carannante.
+- I’m currently learning about web development, specifically with Javascript and HTML.
+- I’m looking to collaborate on projects regarding financial analysis, sports analytics, or scientific/experimental data analysis.
+- e: anthonygcarannante@gmail.com
 
 **Languages:** Python, R, JavaScript ES6+, HTML5, SQL, NoSQL
 
