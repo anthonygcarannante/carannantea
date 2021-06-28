@@ -2,6 +2,7 @@
 - I’m a Python-focused data analyst currently learning about web development and visualization, specifically with Javascript and HTML.
 - I’m looking to collaborate on projects regarding financial analysis, sports analytics, or scientific/experimental data analysis.
 - e: anthonygcarannante@gmail.com
+- l: https://www.linkedin.com/in/carannantea/
 
 **Languages:** Python, R, JavaScript ES6+, HTML5, SQL, NoSQL
 
