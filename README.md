@@ -2,6 +2,8 @@
 - Hi, I’m Anthony G. Carannante.
 - I’m a Python-focused data analyst currently learning about web development and visualization, specifically with Javascript and HTML.
 - I’m looking to collaborate on projects regarding financial analysis, sports analytics, or scientific/experimental data analysis.
+
+## Contact Info
 - e: anthonygcarannante@gmail.com
 - l: https://www.linkedin.com/in/carannantea/
 
