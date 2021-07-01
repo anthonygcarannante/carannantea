@@ -1,14 +1,42 @@
+# About Me
 - Hi, I’m Anthony G. Carannante.
 - I’m a Python-focused data analyst currently learning about web development and visualization, specifically with Javascript and HTML.
 - I’m looking to collaborate on projects regarding financial analysis, sports analytics, or scientific/experimental data analysis.
 - e: anthonygcarannante@gmail.com
 - l: https://www.linkedin.com/in/carannantea/
 
-**Languages:** Python, R, JavaScript ES6+, HTML5, SQL, NoSQL
+### Programming Languages
+- Python
+- R
+- JavaScript ES6+
+- HTML5
+- SQL
+- NoSQL
 
-**Applications:** GitHub, MongoDB, MySQL, PostgreSQL, GIT, AWS, Flask, Command Line, Tableau, VSCode
+### Applications
+- GitHub
+- Tableau
+- PostgreSQL
+- MySQL
+- MongoDB
+- VSCode
+- GIT
+- AWS
+- Flask
+- Command Line
 
-**Tools:** Excel, Seaborn, Scikit learn, Databasing, Pandas, NumPy, Matplotlib, Jupyter Notebook, APIs, SQLAlchemy, BeautifulSoup, Plotly, Bootstrap, D3
+### Tools
+- Excel
+- Pandas, NumPy, Matplotlib, 
+- Seaborn, Scikit learn
+- Databasing
+- Jupyter Notebook
+- APIs
+- SQLAlchemy
+- BeautifulSoup
+- Plotly
+- Bootstrap
+- D3
 
 
 <!---
