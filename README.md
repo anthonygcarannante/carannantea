@@ -8,7 +8,7 @@
 
 **Applications:** GitHub, MongoDB, MySQL, PostgreSQL, GIT, AWS, Flask, Command Line, Tableau, VSCode
 
-**Tools:** Excel, Seaborn, Scikit learn, Databasing, Pandas, NumPy, Matplotlib, Jupyter Notebook, APIs, SQLAlchemy, BeautifulSoup, Plotly, Bootstrap
+**Tools:** Excel, Seaborn, Scikit learn, Databasing, Pandas, NumPy, Matplotlib, Jupyter Notebook, APIs, SQLAlchemy, BeautifulSoup, Plotly, Bootstrap, D3
 
 
 <!---
