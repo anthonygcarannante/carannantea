@@ -3,7 +3,7 @@
 - I’m a Python-focused data analyst currently learning about web development and visualization, specifically with Javascript and HTML.
 - With my engineering background, I am prepared to tackle new challenges head-on and able to learn new concepts on-the-fly.
 - I’m looking to collaborate on projects regarding financial analysis, sports analytics, or scientific/experimental data analysis.
-- My hobbies outside of work include golf, soccer, and music (I play Piano and Guitar).
+- My hobbies outside of work include golf, soccer, and music (I play piano and guitar).
 - Open to converse about new opportunities, analytics, or any topic outside of programming!
 
 ## Contact Info
