@@ -42,6 +42,7 @@
 - Plotly
 - Bootstrap
 - D3
+- Leaflet
 
 
 <!---
