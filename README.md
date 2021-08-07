@@ -36,6 +36,7 @@
 - Excel
 - Pandas, NumPy, Matplotlib, 
 - Seaborn, Scikit learn
+- Machine Learning
 - Databasing
 - Jupyter Notebook
 - APIs
