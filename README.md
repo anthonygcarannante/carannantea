@@ -1,9 +1,9 @@
 # About Me
 - Hi, I’m Anthony G. Carannante.
-- I’m a Python-focused data analyst currently learning about data visualization and telling stories, specifically with Tableau.
+- I’m a Python-focused data analyst currently learning about technical data analysis, specifically with Machine Learning and Big Data strategies.
 - With my engineering background, I am prepared to tackle new challenges head-on and able to learn new concepts on-the-fly.
 - I’m looking to collaborate on projects regarding financial analysis, sports analytics, or scientific/experimental data analysis.
-- My hobbies outside of work include golf, soccer, and music (I play piano and guitar).
+- My hobbies outside of work include golf, soccer (Go Red Devils!), and music.
 - Open to converse about new opportunities, analytics, or any topic outside of programming!
 
 ## Contact Info
@@ -37,6 +37,7 @@
 - Pandas, NumPy, Matplotlib, 
 - Seaborn, Scikit learn
 - Machine Learning
+- Big Data
 - Databasing
 - Jupyter Notebook
 - APIs
