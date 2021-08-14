@@ -9,7 +9,8 @@
 ## Contact Info
 - e: anthonygcarannante@gmail.com
 - l: https://www.linkedin.com/in/carannantea/
-- r: [Resume](https://github.com/carannantea/carannantea/files/6987111/Data.Resume.pdf)
+- r: [Resume](https://github.com/carannantea/carannantea/files/6987113/Data.Resume.pdf)
+
 
 ### Programming Languages
 - Python
