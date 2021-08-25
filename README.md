@@ -35,9 +35,10 @@
 
 ### Tools
 - Excel
-- Pandas, NumPy, Matplotlib, 
+- Pandas, NumPy, Matplotlib
 - Seaborn, Scikit learn
 - Machine Learning
+- Linear Regression Modeling
 - Big Data
 - Databasing
 - Jupyter Notebook
