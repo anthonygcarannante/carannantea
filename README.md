@@ -38,6 +38,7 @@
 - Excel
 - Pandas, NumPy, Matplotlib
 - Seaborn, Scikit learn
+- PySpark
 - Machine Learning
 - Linear Regression Modeling
 - Random Forests
