@@ -36,7 +36,7 @@
 
 ### Tools
 - Excel
-- Pandas, NumPy, Matplotlib
+- Pandas, NumPy, Matplotlib, Bokeh
 - Seaborn, Scikit learn
 - PySpark
 - Machine Learning
