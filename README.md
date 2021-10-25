@@ -3,14 +3,14 @@
 - I am a graduate from a Data Analytics and Visualization bootcamp at the University of Pennsylvania.
 - I’m a Python-focused data analyst currently learning about technical data analysis, specifically with Machine Learning and Big Data strategies.
 - With my engineering background, I am prepared to tackle new challenges head-on and able to learn new concepts on-the-fly.
-- I’m looking to collaborate on projects regarding financial analysis, sports analytics, or scientific/experimental data analysis.
-- My hobbies outside of work include golf, soccer (Go Red Devils!), and music.
+- I’m looking to collaborate on projects regarding financial analysis, sports analytics, or scientific/healthcare data analysis.
+- My hobbies outside of work include golf, soccer, and music.
 - Open to converse about new opportunities, analytics, or any topic outside of programming!
 
 ## Contact Info
 - e: anthonygcarannante@gmail.com
 - l: https://www.linkedin.com/in/carannantea/
-- r: [Resume](https://github.com/carannantea/carannantea/files/6987113/Data.Resume.pdf)
+- r: [Resume](https://drive.google.com/file/d/1cP28Z82_Ow3v5ZkHeHxIg5MdSBN0frh2/view?usp=sharing)
 
 
 ### Programming Languages
