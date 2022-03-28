@@ -1,5 +1,5 @@
 # About Me
-- Hi, I’m Anthony G. Carannante.
+- Hi, I’m Anthony.
 - I am a graduate from a Data Analytics and Visualization bootcamp at the University of Pennsylvania.
 - I’m a Python-focused data analyst currently learning about technical data analysis, specifically with Machine Learning and Big Data strategies.
 - With my engineering background, I am prepared to tackle new challenges head-on and able to learn new concepts on-the-fly.
