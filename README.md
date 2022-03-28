@@ -7,10 +7,6 @@
 - My hobbies outside of work include golf, soccer, and music.
 - Open to converse about new opportunities, analytics, or any topic outside of programming!
 
-## Contact Info
-- e: anthonygcarannante@gmail.com
-- l: https://www.linkedin.com/in/carannantea/
-- r: [Resume](https://drive.google.com/file/d/1cP28Z82_Ow3v5ZkHeHxIg5MdSBN0frh2/view?usp=sharing)
 
 
 ### Programming Languages
